@@ -2,3 +2,4 @@
 ## day one
 ### learning markdown intalling python
 ## day two
+### data types

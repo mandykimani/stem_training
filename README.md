@@ -5,3 +5,9 @@
 ### data types
 ## day three
 ### complex calculator
+## day four
+### control flow
+## day five
+### list, turples, sets
+## day six 
+### dictionaries

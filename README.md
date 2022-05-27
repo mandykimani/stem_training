@@ -1,12 +1,12 @@
 # stem_training
 ## day one
 ### learning markdown intalling python
-## day two
-### data types
-## day three
-### complex calculator
-## day four
-### control flow
+## Day two
+### Data types
+## Day three
+### Making a complex calculator
+## Day four
+### Control flow
 ## day five
 ### list, turples, sets
 ## day six 

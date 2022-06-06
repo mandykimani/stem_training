@@ -7,13 +7,21 @@
 ### Making a complex calculator
 ## Day four
 ### Control flow
-## day five
+## Day five
+### Kuccps guide
+## Day six
 ### list, turples, sets
-## day six 
+## Day seven 
 ### dictionaries
-## Day seven
-### Object Oriented Program
 ## Day eight
-### GUI simple widget buttons
+### Object Oriented Program
 ## Day nine
+### GUI simple widget buttons
+## Day ten
 ### Packages, Buttons
+## Day eleven
+### Importing codes
+## Day twelve
+### Using tkinter Module to create graphical user interface
+## Day thirteen
+### Game development
